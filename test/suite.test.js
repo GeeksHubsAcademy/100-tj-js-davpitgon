@@ -23,4 +23,3 @@ test('GeeksHubs -100 iterations ', function () {
     var result = geekshubs(100);
     expect(result).toBe(expected);
 });
-
